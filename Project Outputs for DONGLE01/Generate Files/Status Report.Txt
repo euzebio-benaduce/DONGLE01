@@ -1,0 +1,10 @@
+Output: EDIF for PCB
+Type  : EDIF
+From  : Project [DONGLE01.PrjPcb]
+   Generated File[DONGLE01.EDF]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:17:56 On 2024-11-24
